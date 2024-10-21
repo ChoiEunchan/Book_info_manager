@@ -1,0 +1,23 @@
+LOAD
+ADD i am zlatan	500	zlatan ibrahimovic	2014
+ADD my story	600	steven gerrard	2007
+ADD my turn: the autobiography	700	joahn cruyff	2017
+ADD harry potter and the philosopher's stone	100	j. k. rowling	1997
+SEARCH_BP h i
+SEARCH_BP harry potter and the philosopher's stone
+SEARCH_BP my birthday
+ADD harry potter and the philosopher's stone	100	j. k. rowling	1997
+ADD harry potter and the philosopher's stone	100	j. k. rowling	1997
+SEARCH_BP harry potter and the philosopher's stone
+PRINT_BP
+PRINT_ST 000
+PRINT_ST 100
+PRINT_ST 200
+PRINT_ST 300
+PRINT_ST 400
+PRINT_ST 500
+PRINT_ST 600
+PRINT_ST 700
+DELETE
+PRINT_ST 000
+EXIT

@@ -1,0 +1,76 @@
+the hobbit	000	j. r. r. tolkein	1937	0
+harry potter and the philosopher's stone	100	j. k. rowling	1997	0
+the da vinci code	200	dan brown	2003	0
+the chronicles of narnia	300	c.s.lewis	1950	0
+the little prince	400	antoine de saint-exupery	1943	0
+the catcher in the rye	500	j. d. salinger	1951	0
+o alquimista	600	paulo coelho	1988	0
+anne of green gables	700	lucy maud montgomery	1908	0
+le avventure di pinocchio	000	carlo collodi	1881	3
+cosmos	100	carl sagan	1980	3
+angels and demons	200	dan brown	2000	3
+kane and abel	300	jeffery archer	1979	4
+the great gatsby	400	f. scott fitzgerald	1925	4
+gone with the wind	500	margaret mitchell	1936	2
+rebecca	600	daphne du maurier	1938	2
+lost symbol	700	dan brown	2009	2
+hunger games : mockingjay	000	suzanne collins	2010	0
+who moved my cheese?	100	spencer johnson	1998	0
+a brief history of time	200	stephen hawking	1988	0
+fault in our stars	300	john green	2012	0
+the godfather	400	mario puzo	1969	0
+love story	500	erich segal	1970	0
+adventures of huckleberryfinn	600	mark twain	1885	0
+pride and prejudice	700	jane austen	1813	0
+charlie and the chocolate factory	000	Roald dahl	1964	3
+the lord of rings	000	j. r. r. tolkein	1954	3
+don quixote1	000	miguel de cervantes	1605	3
+don quixote2	000	miguel de cervantes	1615	3
+a dog of flanders and other stories	000	marie louise de la ramee	1872	3
+the merchant of venice	000	william shakespear	1596	3
+the taming of the shrew	000	william shakespear	1590	3
+a midsummer night's dream	000	william shakespear		1600	3
+harry potter and the chamber of secrets	100	j. k. rowling	1998	0
+harry potter and the prisoner of azkaban	100	j. k. rowling	1999	0
+harry potter and the goblet of fire	100	j. k. rowling	2000	0
+harry potter and the order of the phoenix	100	j. k. rowling	2003	0
+harry potter and the half-blood prince	100	j. k. rowling	2005	0
+harry potter and the deathly hallows	100	j. k. rowling	2007	0
+inferno	200	dan brown	2013	0
+deception point	200	dan brown	2001	0
+digital fortress	200	dan brown	1998	0
+the lost symbol	200	dan brown	2009	0
+a tale of two cities	200	chareles dickens	1859	0
+and then there were None	200	mary westmacott	1939	0
+she	300	henry rider haggard	1887	0
+think and grow rich	300	napoleon hill	1937	0
+steps to christ	300	ellen gould white	1892	0
+in his steps: what would jesus do?	300	charles monroe sheldon	1896	0
+valley of dolls	300	jacqueline susann	1966	0
+the very hungry caterpillar	300	eric carle	1969	0
+the 7 habits of highly effective people	400	stephen richards covey	1989	0
+the wind in the willows	600	kenneth grahame	1908	0
+the adventures of tom sawyer	400	mark twain	1876	0
+dream of the Red Chamber	400	cao xueqin	1791    0
+the common sense Book of baby and child care	400	benjamin spock	1946	0
+the eagle has landed	400	jack higgins	1975	0
+watership down	400	richard adams	1972	0
+jonathan livingston seagull	500	richard david bach	1970	0
+to kill a mockingbird	500	nelle harper lee	1960	0
+crime and punishment	500	fyodor dostoevsky	1866	0
+les miserables	500	victor hugo	1862	0
+the old man and the sea	500	ernest hemingway	1952	0
+divine comedy	500	dante alighieri	1320	0
+the pilgrim's progress	500	john bunyan	1678	0
+alice’s adventures in wonderland	600	lewis carroll	1865	0
+the tragedy of hamlet, prince of denmark	600	william shakespear	1601	0
+paradise lost	600	john milton	1667	0
+gulliver's travels	600	jonathan Swift	1726	0
+the last leaf	600	O. henry	1907	0
+death of a salesman	600	arthur miller	1949	0
+the keys of the kingdom	700	a. j. cronin	1941	0
+strange case of dr. jekyll and mr. hyde	700	robert louis stevenson	1886	0
+arc de triomph	700	erich maria remarque	1946	0
+all quiet on the western front	700	erich maria remarque	1929	0
+the black cat	700	edgar allan poe	1845	0
+animal farm	700	georege orwell	1945	0
